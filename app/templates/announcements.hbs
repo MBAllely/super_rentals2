@@ -2,8 +2,10 @@
 
 <ul>
   {{#each model as |announcement|}}
-    {{announcement-tile announcement=announcement}}
+    {{announcement-tile announcement=announcement destroyAnnouncement="destroyAnnouncement"}}
   {{/each}}
 </ul>
+
+{{new-announcement save5="save6"}}
 
 {{#link-to 'index'}}Home{{/link-to}}
