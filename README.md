@@ -1,7 +1,10 @@
 # Super-rentals
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+## Description
+
+#### This app was built as an exercise for Epicodus and is not meant to be replicated. I'm keeping it here for my own records, and for nostalgia's sake. Feel free to play with it, but be aware that it is not a complete project.
+
+Super rentals is a pretty standard CRUD app with a one-to-many relationship.  Users create cities and add real estate listings to them.
 
 ## Prerequisites
 
